@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website](https://vmuya.netlify.app/) . [linkedin](https://www.linkedin.com/in/victormuya/) . [twitter](https://twitter.com/muyavictor_)
+<div align="center" style="font-family: 'Lucida Console';">
+<a target="_blank" href="https://www.facebook.com/originalphreak/">website </a> ●
+  <a target="_blank" href="https://www.linkedin.com/in/absphreak/">linkedin </a> ●
+  <a target="_blank" href="https://www.instagram.com/absphreak/"> twitter</a> ●
+<div>
