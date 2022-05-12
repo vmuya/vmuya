@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center" style="font-family: 'Lucida Console';">
-<a target="_blank" href="https://www.facebook.com/originalphreak/">website </a> ●
-  <a target="_blank" href="https://www.linkedin.com/in/absphreak/">linkedin </a> ●
-  <a target="_blank" href="https://www.instagram.com/absphreak/"> twitter</a> ●
+<a target="_blank" href="https://vmuya.netlify.app/">website </a> .
+  <a target="_blank" href="https://www.linkedin.com/in/victormuya/">linkedin </a> .
+  <a target="_blank" href="https://twitter.com/muyavictor_"> twitter</a> 
 <div>
